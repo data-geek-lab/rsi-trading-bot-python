@@ -17,7 +17,8 @@ In this project, we use Python to build a simple RSI-based trading strategy bot.
 ---
 
 **Watch the full tutorial on YouTube:**  
-[👉 Episode 2 - RSI Trading Bot](https://www.youtube.com/@DataGeeksMyName)
+👉 Episode 1 - RSI Trading Bot : https://youtu.be/4jcVT56qSLo?si=V9zQfs_HW6c4ZGLH
 
-☕ **Support the channel:**  
-[Buy Me a Coffee](https://www.buymeacoffee.com/yourname)
+☕ **Support the channel** :
+Buy Me a Coffee: https://buymeacoffee.com/datageekismyname
+Happy Learning!
