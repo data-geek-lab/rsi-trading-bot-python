@@ -21,4 +21,5 @@ In this project, we use Python to build a simple RSI-based trading strategy bot.
 
 ☕ **Support the channel** :
 Buy Me a Coffee: https://buymeacoffee.com/datageekismyname
+
 Happy Learning!
